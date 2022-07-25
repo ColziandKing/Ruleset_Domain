@@ -1,5 +1,10 @@
 
 [
+	{
+        "name": "God-King",
+        "type": "Pantheon",
+        "uniques": ["[+1 Faith, +1 Culture, +1 Gold, +1 Science, +1 Production] from every [Palace]"]
+    },
     {
         "name": "Ancestor Worship",
         "type": "Pantheon",

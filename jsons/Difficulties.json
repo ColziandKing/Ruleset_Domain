@@ -253,7 +253,7 @@
 		"aiUnitMaintenanceModifier": 0.75,
 		"aiUnitSupplyModifier": 0.3,
 		"aiFreeTechs": ["Pottery"],
-		"aiMajorCivBonusStartingUnits": ["Era Starting Unit", "Scout"],
+		"aiMajorCivBonusStartingUnits": ["Settler","Era Starting Unit", "Scout"],
 		"aiCityStateBonusStartingUnits": [],
 		"aiUnhappinessModifier": 0.85,
 		"aisExchangeTechs": true,
